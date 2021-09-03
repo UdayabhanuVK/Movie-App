@@ -1,0 +1,17 @@
+body{
+  background-color: purple;
+}
+
+.movieList{
+  background-color: rgb(248, 212, 244);
+}
+
+.movieStatus{
+  background-color: rgb(209, 233, 164);
+}
+
+.deletefont{
+  background-color:rgb(248, 212, 244); 
+  margin-left: 14rem;
+  border: transparent;
+}
